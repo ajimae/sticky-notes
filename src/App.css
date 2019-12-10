@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  /* text-align: center;
+  border: 1px solid #ccc; */
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 680px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.app-header {
+  color: #333
+}

@@ -1,0 +1,21 @@
+.input {
+  border: 0;
+  background: none !important;
+  background-color: transparent !important;
+  outline: none;
+  margin-top: 10px;
+  width: 140px;
+  font-size: 11px;
+}
+
+textarea {
+  resize: none;
+  height: 90px;
+  font-size: 11px;
+}
+
+.input:focus {
+  background: none;
+  background-color: none;
+  border: 1px solid lightgray;
+}
